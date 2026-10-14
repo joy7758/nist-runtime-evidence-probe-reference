@@ -1,3 +1,5 @@
+> **Moved:** this repository has been merged into [joy7758/ans-runtime-evidence-reference](https://github.com/joy7758/ans-runtime-evidence-reference/tree/main/nist-runtime-evidence-probe-reference) with full history. This repo is archived and read-only.
+
 # NIST-style Runtime Execution Evidence Probe Reference
 
 中文：NIST风格运行时执行证据探针参考实现。
